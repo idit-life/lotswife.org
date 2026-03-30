@@ -1,0 +1,5 @@
+# Netlify headers for proper MIME types
+
+/papers/*.pdf
+  Content-Type: application/pdf
+  Content-Disposition: attachment
